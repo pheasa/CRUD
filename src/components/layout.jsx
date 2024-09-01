@@ -31,15 +31,15 @@ export function NavBar() {
               </Link>
             </li>
             <li className="nav-item dropdown">
-              <a
+              <Link
                 className="nav-link dropdown-toggle"
-                to="#"
+                to="/"
                 role="button"
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
                 Dropdown
-              </a>
+              </Link>
               <ul className="dropdown-menu">
                 <li>
                   <Link className="dropdown-item" to="user">
@@ -47,7 +47,7 @@ export function NavBar() {
                   </Link>
                 </li>
                 <li>
-                  <Link className="dropdown-item" to="product">
+                  <Link className="dropdown-item" to="products">
                     Product
                   </Link>
                 </li>
