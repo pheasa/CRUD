@@ -50,5 +50,5 @@ server.post("/products", (req, res, next) => {
 server.use(bodyParser);
 server.use(router);
 server.listen(3000, () => {
-  console.log("JSON Server is running");
+  console.log("JSON Server is running.");
 });
