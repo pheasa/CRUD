@@ -1,0 +1,165 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Laptop Pro 15",
+            "category": "Electronics",
+            "price": 1499.99,
+            "stock": 25,
+            "description": "High-performance laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+            "id": 2,
+            "name": "Wireless Headphones",
+            "category": "Accessories",
+            "price": 199.99,
+            "stock": 50,
+            "description": "Noise-cancelling over-ear headphones with 20-hour battery life."
+        },
+        {
+            "id": 3,
+            "name": "Smartphone X",
+            "category": "Electronics",
+            "price": 999.99,
+            "stock": 100,
+            "description": "Latest smartphone with 128GB storage and dual cameras."
+        },
+        {
+            "id": 4,
+            "name": "4K Monitor",
+            "category": "Electronics",
+            "price": 299.99,
+            "stock": 30,
+            "description": "27-inch 4K monitor with vibrant colors and HDR support."
+        },
+        {
+            "id": 5,
+            "name": "Mechanical Keyboard",
+            "category": "Accessories",
+            "price": 89.99,
+            "stock": 75,
+            "description": "RGB mechanical keyboard with tactile switches and customizable keys."
+        },
+        {
+            "id": 6,
+            "name": "Gaming Mouse",
+            "category": "Accessories",
+            "price": 59.99,
+            "stock": 150,
+            "description": "Ergonomic gaming mouse with adjustable DPI and RGB lighting."
+        },
+        {
+            "id": 7,
+            "name": "Portable Speaker",
+            "category": "Accessories",
+            "price": 49.99,
+            "stock": 200,
+            "description": "Compact Bluetooth speaker with deep bass and water resistance."
+        },
+        {
+            "id": 8,
+            "name": "Smartwatch Series 5",
+            "category": "Wearables",
+            "price": 399.99,
+            "stock": 60,
+            "description": "Advanced smartwatch with fitness tracking and heart rate monitoring."
+        },
+        {
+            "id": 9,
+            "name": "Tablet Pro 11",
+            "category": "Electronics",
+            "price": 799.99,
+            "stock": 40,
+            "description": "11-inch tablet with stylus support and 256GB storage."
+        },
+        {
+            "id": 10,
+            "name": "External SSD 1TB",
+            "category": "Storage",
+            "price": 129.99,
+            "stock": 120,
+            "description": "High-speed external SSD with 1TB capacity and USB-C connectivity."
+        },
+        {
+            "id": 11,
+            "name": "Action Camera 4K",
+            "category": "Cameras",
+            "price": 249.99,
+            "stock": 85,
+            "description": "Rugged 4K action camera with waterproof housing and wide-angle lens."
+        },
+        {
+            "id": 12,
+            "name": "Drone X Pro",
+            "category": "Drones",
+            "price": 599.99,
+            "stock": 45,
+            "description": "Advanced drone with 4K camera and 30-minute flight time."
+        },
+        {
+            "id": 13,
+            "name": "VR Headset",
+            "category": "Wearables",
+            "price": 299.99,
+            "stock": 70,
+            "description": "Virtual reality headset with immersive display and motion tracking."
+        },
+        {
+            "id": 14,
+            "name": "Fitness Tracker",
+            "category": "Wearables",
+            "price": 99.99,
+            "stock": 150,
+            "description": "Lightweight fitness tracker with sleep monitoring and step counter."
+        },
+        {
+            "id": 15,
+            "name": "Smart Light Bulb",
+            "category": "Home Automation",
+            "price": 24.99,
+            "stock": 300,
+            "description": "Wi-Fi enabled smart light bulb with voice control and color changing."
+        },
+        {
+            "id": 16,
+            "name": "Electric Kettle",
+            "category": "Appliances",
+            "price": 39.99,
+            "stock": 100,
+            "description": "1.7L electric kettle with fast boiling and automatic shut-off."
+        },
+        {
+            "id": 17,
+            "name": "Coffee Maker",
+            "category": "Appliances",
+            "price": 89.99,
+            "stock": 80,
+            "description": "Programmable coffee maker with 12-cup capacity and brew strength control."
+        },
+        {
+            "id": 18,
+            "name": "Air Purifier",
+            "category": "Home Appliances",
+            "price": 199.99,
+            "stock": 60,
+            "description": "HEPA air purifier with 3-stage filtration and air quality sensor."
+        },
+        {
+            "id": 19,
+            "name": "Robot Vacuum",
+            "category": "Home Appliances",
+            "price": 299.99,
+            "stock": 50,
+            "description": "Smart robot vacuum with automatic mapping and Wi-Fi control."
+        },
+        {
+            "id": 20,
+            "name": "Electric Toothbrush",
+            "category": "Personal Care",
+            "price": 59.99,
+            "stock": 90,
+            "description": "Rechargeable electric toothbrush with multiple brushing modes."
+        }
+    ]
+    
+}
